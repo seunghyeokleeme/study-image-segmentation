@@ -1,0 +1,6 @@
+{
+  "python.languageServer": "Pylance",
+  "python.analysis.typeCheckingMode": "standard",
+  "python.analysis.autoImportCompletions": true,
+  "editor.formatOnSave": true
+}
